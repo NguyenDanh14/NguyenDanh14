@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danh</h1>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" width="70%" />
+    <img src="https://images3.alphacoders.com/135/1355025.jpeg" alt="" width="70%" />
 </p>
 
 <div align="left">
@@ -31,8 +31,8 @@
 
 <div align="left">
     <h3>Connect with Me</h3>
-    <a href="https://github.com/[YourGitHub]" target="_blank">
-        <img src="https://github.com/NguyenDanh14" alt="GitHub" />
+    <a href="https://github.com/NguyenDanh14" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://linkedin.com/in/[YourLinkedIn]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -42,7 +42,4 @@
 </a>
 </div>
 
-<div align="left">
-    <h3>GitHub Stats</h3>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="[Your Name]'s GitHub Stats" width="100%" />
-</div>
+
