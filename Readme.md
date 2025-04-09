@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Danh</h1>
 
-<img alt="benner" style="width:100vw" src="https://avatars.githubusercontent.com/u/121931149?v=4&size=64">
+<img alt="benner" style="width:50vw" src="https://4kwallpapers.com/images/walls/thumbs_3t/10747.jpg">
 
 <p>-🌱 I’m looking to collaborate on IUH.</p>
 <h2>🚀 Languages and Tools I Use</h2>
