@@ -1,9 +1,11 @@
-<h1>Hi 👋, I'm Danh</h1>
+<h1 align="center">Hi 👋, I'm Danh</h1>
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<p align="center">
+    <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" width="80%" />
+</p>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" width="100%" />
 </div>
 
 <div align="center">
@@ -15,7 +17,6 @@
 
 <div align="center">
     <h3>Cloud Technologies</h3>
-    <!-- Replace with your cloud tech skills -->
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
     <!-- Add more badges similarly -->
 </div>
@@ -26,8 +27,4 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
-
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
 </div>
